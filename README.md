@@ -1,1 +1,3 @@
-Poema é um texto literário escrito em versos, que são distribuídos em estrofes. Esses versos podem ser regulares, brancos ou livres. Se for composto por versos regulares, esse texto poderá apresentar diversos tipos de rimas. Também pode ser narrativo, dramático ou lírico.
+# Título do meu README
+
+Aqui neste arquivo README teremos as informações relativas ao nosso projeto.
